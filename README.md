@@ -1,4 +1,4 @@
-**M1 Finance Rebalancing Calculator/Simulator**
+### M1 Finance Rebalancing Calculator/Simulator
 
 M1 Finance is an investing platform which allows users to invest using fractional shares and custom weighting.
 
