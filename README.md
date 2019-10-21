@@ -11,3 +11,10 @@ Also note that the target weighting of each position is exact in relation to the
 Feel free to contact me if you have any questions.
 
 https://docs.google.com/spreadsheets/d/1GmjWjGQ0CxeLf6v59pctsX6gXn2AAxkTO4RttRWGdbw/edit?usp=sharing
+
+
+### Company Culture Stock Market Analysis
+
+TODO: Document
+
+https://docs.google.com/spreadsheets/d/1_e3kF3jH_dzpUPhHnl5aVgStkdfRoZHFmePPYY6BjLE/edit?usp=sharing
