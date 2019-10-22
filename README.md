@@ -19,9 +19,8 @@ https://docs.google.com/spreadsheets/d/1_e3kF3jH_dzpUPhHnl5aVgStkdfRoZHFmePPYY6B
 
 I remember when I first starting learning about the stock market I read/heard something along the lines that companies who have great culture outperform the market. After some digging I found the exact gist from the tutorial where I saw that:
 
->Company culture refers to a company’s overall philosophy - how it treats its customers, how it rewards its employees, how it deals with environmental issues.
+>Company culture refers to a company’s overall philosophy - how it treats its customers, how it rewards its employees, how it deals with environmental issues. Studies have shown that companies with good culture greatly outperform the market.
 >
-Studies have shown that companies with good culture greatly outperform the market.
 >Ask any Wall Street analyst what they look for in a good investment and they’ll rattle off earnings figures, growth numbers and ratios until you find a reason to excuse yourself.
 >
 >Of course, financial analysis is also important in choosing the right companies to invest in, but something that is very often overlooked is company culture.
