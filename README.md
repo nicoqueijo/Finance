@@ -10,6 +10,9 @@ For each year's analysis there is an equal weighted model and a market cap weigh
 
 Also note that for the market cap weighted models the target weight of each position is exact in relation to the market cap of the entire portfolio. Unfortunately, at the time of this writing M1 Finance only supports integer target weight values so in practice you wouldn't be able to allocate the exact weight in relation to a stock's market cap.
 
+TODO:
+  Disclaim projected annualized return
+
 
 ### Company Culture Stock Market Analysis
 
@@ -43,9 +46,15 @@ Unfortunately, there was only data for the past ten or so years so I couldn't re
 
 This strategy is not a sure way to achieve positive returns every year. It is still susceptible to systematic risk but as my analysis shows a substantially higher alpha can be achieved without necessarily increasing beta. In other words, bull markets yield higher than average returns while bear markets don't incur higher than average losses.
 
+TODO:
+  Change average return to annualized return (modify formula) for summary cells.
+
 ### Founder-CEO Stock Market Analysis
 
 https://docs.google.com/spreadsheets/d/1Z4ALtgVbxwsdlrUXme7kkW6_Mb4wnChPXIQB6SP5q3s/edit?usp=sharing
+
+TODO:
+  Document
 
 
 https://pdfs.semanticscholar.org/3f29/73902fef0038986ecab7cb59036a5e249eac.pdf
