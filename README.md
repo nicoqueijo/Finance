@@ -10,8 +10,6 @@ For each year's analysis there is an equal weighted model and a market cap weigh
 
 Also note that for the market cap weighted models the target weight of each position is exact in relation to the market cap of the entire portfolio. Unfortunately, at the time of this writing M1 Finance only supports integer target weight values so in practice you wouldn't be able to allocate the exact weight in relation to a stock's market cap.
 
-Feel free to contact me if you have any questions.
-
 
 ### Company Culture Stock Market Analysis
 
@@ -35,15 +33,19 @@ I remember when I first started learning about the stock market I read/heard som
 >
 >Companies that ranked poorly in the category underperformed the market by 29.5% over the same time period.
 
-Source: https://learn.mywallst.com/lesson/23/
+Source of quote: https://learn.mywallst.com/lesson/23/
 
-After reading this I wanted to see it for myself. I compiled the publicly-traded companies from each year's reports and analyzed their returns in relation to other benchmarks such as the S&P 500. My results coincided with the article. The average return of the companies who featured on these lists had returns substantially higher than those of the market.
+After reading that I wanted to see it for myself. I compiled the publicly-traded companies from each year's reports and analyzed their returns in comparison to other benchmarks such as the S&P 500. My results coincided with the article. The average return of the companies who featured on these lists were substantially higher than those of the market.
 
-Unfortunately, there was only data for the past ten or so years so I couldn't really examine performance in other stages of the economic cycle. I would have liked to see how this strategy would've panned out circa the Dot-com Bubble and The Great Recession. I did however measure the returns for 2008 using the 2009 list and saw that losses were not much higher than the market's losses.
+Anecdotally I can attest to the claim as I interned at Ultimate Software which is a company that featured in "Fortune 100's Best Companies to Work For" for 7 consecutive years. I got to see first-hand that when employees are in an environment where they feel happy and appreciated it causes them to become more productive and therefore the company grows at a faster rate. Ultimate Software had an annualized return of 18.45% from the time it IPOed to when it got bought out. For context, the S&P 500 had an annualized return of 4.45% in the same period.
 
-This strategy is not a sure way to achieve positive returns every year. It is still susceptible to systematic risk but as my analysis shows substantially higher alpha can be achieved without necessarily increasing beta.
+Unfortunately, there was only data for the past ten or so years so I couldn't really examine performance in other stages of the economic cycle. I would've liked to see how this strategy would've panned out circa the Dot-com Bubble and The Great Recession. I did however measure the returns for 2008 using the stocks from the 2009 list and saw that losses for that year were basiacally the same as the market's losses.
 
+This strategy is not a sure way to achieve positive returns every year. It is still susceptible to systematic risk but as my analysis shows a substantially higher alpha can be achieved without necessarily increasing beta. In other words, bull markets yield higher than average returns while bear markets don't incur higher than average losses.
 
 ### Founder-CEO Stock Market Analysis
 
 https://docs.google.com/spreadsheets/d/1Z4ALtgVbxwsdlrUXme7kkW6_Mb4wnChPXIQB6SP5q3s/edit?usp=sharing
+
+
+https://pdfs.semanticscholar.org/3f29/73902fef0038986ecab7cb59036a5e249eac.pdf
