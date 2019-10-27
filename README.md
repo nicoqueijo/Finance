@@ -46,8 +46,6 @@ Unfortunately, there was only data for the past ten or so years so I couldn't re
 
 This strategy is not a sure way to achieve positive returns every year. It is still susceptible to systematic risk but as my analysis shows a substantially higher alpha can be achieved without necessarily increasing beta. In other words, bull markets yield higher than average returns while bear markets don't incur higher than average losses.
 
-TODO:
-  Change average return to annualized return (modify formula) for summary cells.
 
 ### Founder-CEO Stock Market Analysis
 
