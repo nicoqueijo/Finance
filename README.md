@@ -10,9 +10,6 @@ For each year's analysis there is an equal weighted model and a market cap weigh
 
 Also note that for the market cap weighted models the target weight of each position is exact in relation to the market cap of the entire portfolio. Unfortunately, at the time of this writing M1 Finance only supports integer target weight values so in practice you wouldn't be able to allocate the exact weight in relation to a stock's market cap.
 
-TODO:
-  -Disclaim projected annualized return
-
 
 ### Company Culture Stock Market Analysis
 
@@ -53,6 +50,7 @@ https://docs.google.com/spreadsheets/d/1Z4ALtgVbxwsdlrUXme7kkW6_Mb4wnChPXIQB6SP5
 
 TODO:
   -Change average return to annualized return (modify formula) for summary cells.	
+  
   -Document
 
 https://pdfs.semanticscholar.org/3f29/73902fef0038986ecab7cb59036a5e249eac.pdf
@@ -62,5 +60,7 @@ https://pdfs.semanticscholar.org/3f29/73902fef0038986ecab7cb59036a5e249eac.pdf
 
 TODO:
   -Assure chart screenshots load
+  
   -Document
+  
   -Post link to sheet
