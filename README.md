@@ -59,10 +59,9 @@ https://pdfs.semanticscholar.org/3f29/73902fef0038986ecab7cb59036a5e249eac.pdf
 
 ### Lost Decade Dollar-Cost-Averaging Analysis
 
-TODO:
+https://docs.google.com/spreadsheets/d/17k19DyKEUMjc2whjE8wgrWp7o-llslAGJQwtyfM20a8/edit?usp=sharing
 
-  -Assure chart screenshots load
+TODO:
   
   -Document
-  
-  -Post link to sheet
+ 
