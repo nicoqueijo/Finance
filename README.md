@@ -52,7 +52,9 @@ TODO:
 
   -Change average return to annualized return (modify formula) for summary cells.	
   
-  -Document
+  -Document.
+  
+  -Document survivorship bias and how that affects results.
 
 https://pdfs.semanticscholar.org/3f29/73902fef0038986ecab7cb59036a5e249eac.pdf
 
