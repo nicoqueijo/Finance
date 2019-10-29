@@ -49,8 +49,6 @@ This strategy is not a sure way to achieve positive returns every year. It is st
 https://docs.google.com/spreadsheets/d/1Z4ALtgVbxwsdlrUXme7kkW6_Mb4wnChPXIQB6SP5q3s/edit?usp=sharing
 
 TODO:
-
-  -Change average return to annualized return (modify formula) for summary cells.	
   
   -Document.
   
