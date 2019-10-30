@@ -48,13 +48,19 @@ This strategy is not a sure way to achieve positive returns every year. It is st
 
 https://docs.google.com/spreadsheets/d/1Z4ALtgVbxwsdlrUXme7kkW6_Mb4wnChPXIQB6SP5q3s/edit?usp=sharing
 
-TODO:
-  
-  -Document.
-  
-  -Document survivorship bias and how that affects results.
+A founder-CEO is an individual who founds a firm and holds its CEO position. Research has highlighted differences among founder and non-founder CEOs that influence firm performance. These differences include stock performance, equity stake in the firm, managerial incentives, innovation investment, and outlook towards mergers and acquisitions.
 
-https://pdfs.semanticscholar.org/3f29/73902fef0038986ecab7cb59036a5e249eac.pdf
+They tend to take a long-term view and consider their firm their lifetime achievement, resulting in them holding a larger equity stake in their firm than non-founder CEOs. Founder-CEOs become less influenced by managerial incentives as they continue to devote resources to their firm whereas the opposite is true for non-founder CEOs. Non-founder CEOs are less invested in their company and are more likely to tailor their performance according to managerial incentives.
+
+To test this theory myself, what I've done in this spreadsheet is compiled the constituents of the S&P 500 and Russell 1000, recorded their calendar year returns from 2000 to present, and compared how founder-CEO companies performed against non-founder-CEO companies.
+
+The issue with this analysis is that it uses the current constituents of these indices to look at historical performances and hence suffers from a bad case of survivorship bias. Therefore, the more recent the year the more appropriate/accurate the analysis is and vice versa the older the year.
+
+I wasn't able to find historical data on the indices' constituents and even if I did it would've been extremely difficult figuring out founder-CEO status each given year.
+
+Founder-CEO wiki page: https://en.wikipedia.org/wiki/Founder_CEO
+
+Founder-CEO research paper: https://pdfs.semanticscholar.org/3f29/73902fef0038986ecab7cb59036a5e249eac.pdf
 
 
 ### Lost Decade Dollar-Cost-Averaging Analysis
@@ -64,4 +70,4 @@ https://docs.google.com/spreadsheets/d/17k19DyKEUMjc2whjE8wgrWp7o-llslAGJQwtyfM2
 TODO:
   
   -Document
- 
+
