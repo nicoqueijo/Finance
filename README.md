@@ -50,7 +50,7 @@ https://docs.google.com/spreadsheets/d/1Z4ALtgVbxwsdlrUXme7kkW6_Mb4wnChPXIQB6SP5
 
 A founder-CEO is an individual who founds a firm and holds its CEO position. Research has highlighted differences among founder and non-founder CEOs that influence firm performance. These differences include stock performance, equity stake in the firm, managerial incentives, innovation investment, and outlook towards mergers and acquisitions.
 
-They tend to take a long-term view and consider their firm their lifetime achievement, resulting in them holding a larger equity stake in their firm than non-founder CEOs. Founder-CEOs become less influenced by managerial incentives as they continue to devote resources to their firm whereas the opposite is true for non-founder CEOs. Non-founder CEOs are less invested in their company and are more likely to tailor their performance according to managerial incentives.
+Founder-CEOs tend to take a long-term view and consider their firm their lifetime achievement, resulting in them holding a larger equity stake in their firm than non-founder CEOs. Founder-CEOs become less influenced by managerial incentives as they continue to devote resources to their firm whereas the opposite is true for non-founder CEOs. Non-founder CEOs are less invested in their company and are more likely to tailor their performance according to managerial incentives.
 
 To test this theory myself, what I've done in this spreadsheet is compiled the constituents of the S&P 500 and Russell 1000, recorded their calendar year returns from 2000 to present, and compared how founder-CEO companies performed against non-founder-CEO companies.
 
@@ -67,7 +67,8 @@ Founder-CEO research paper: https://pdfs.semanticscholar.org/3f29/73902fef003898
 
 https://docs.google.com/spreadsheets/d/17k19DyKEUMjc2whjE8wgrWp7o-llslAGJQwtyfM20a8/edit?usp=sharing
 
-TODO:
-  
-  -Document
+This is a simulation of dollar-cost-averaging throughout the American market's "lost decade" where the market didn't change for 13 years. It's a simple strategy where each month you fund your account with a fixed amount and buy as much stock as you can with it. Despite ~0% change from start to end we would've still made gains dollar-cost-averaging due to the there being more low points than high points relative to the end price. This does not consider dividends, just capital gains. Even in a flat 13-year market we still get a return that at least competes with a high-yield savings accounts.
+
+I've also tested the stagnant intraperiods between the larger "lost decade" period. As you can see, periods that experienced a recession returned positive yields while periods that experienced an expansion returned negative yields. This is due to the average cost being lower/higher in recessionary/expansionary periods respectively relative to the end price.   
+
 
