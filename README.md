@@ -67,7 +67,7 @@ Founder-CEO research paper: https://pdfs.semanticscholar.org/3f29/73902fef003898
 
 https://docs.google.com/spreadsheets/d/17k19DyKEUMjc2whjE8wgrWp7o-llslAGJQwtyfM20a8/edit?usp=sharing
 
-This is a simulation of dollar-cost-averaging throughout the American market's "lost decade" where the market didn't change for 13 years. It's a simple strategy where each month you fund your account with a fixed amount and buy as much stock as you can with it. Despite ~0% change from start to end we would've still made gains dollar-cost-averaging due to the there being more low points than high points relative to the end price. This does not consider dividends, just capital gains. Even in a flat 13-year market we still get a return that at least competes with a high-yield savings accounts.
+This is a simulation of dollar-cost-averaging throughout the American market's "lost decade" where the market didn't change for ~13 years. It's a simple strategy where each month you fund your account with a fixed amount and buy as much stock as you can with it. Despite ~0% change from start to end we would've still made gains dollar-cost-averaging due to there being more low points than high points relative to the end price. This does not consider dividends, just capital gains. Even in a flat 13-year market we still get a return that at least competes with a high-yield savings accounts.
 
 I've also tested the stagnant intraperiods between the larger "lost decade" period. As you can see, periods that experienced a recession returned positive yields while periods that experienced an expansion returned negative yields. This is due to the average cost being lower/higher in recessionary/expansionary periods respectively relative to the end price.   
 
