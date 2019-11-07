@@ -6,7 +6,7 @@ M1 Finance is an investing platform which allows users to invest using fractiona
 
 I've created a spreadsheet which simulates how a given portfolio would've performed in previous years using the M1 Finance investing platform. Given a list of stocks, a target weight for each, and monthly contributions, this spreadsheet calculates returns for the past five calendar years and compares them with other benchmarks such as the S&P 500.
 
-For each year's analysis there is an equal weighted model and a market cap weighted model. The market cap weighted models use market cap values as they are in the beginning of each year. Unfortunately, Google Finance API doesn't support historical market cap data (only realtime) so I had to compute these values with a formula using current stock prices which theoretically should give me correct values.
+For each year's analysis there is an equal weighted model and a market cap weighted model. The market cap weighted models use market cap values as they stand in the beginning of each year. Unfortunately, Google Finance API doesn't support historical market cap data (only realtime) so I had to compute these values with a formula using current stock prices which theoretically should give me correct values for those years.
 
 Also note that for the market cap weighted models the target weight of each position is exact in relation to the market cap of the entire portfolio. Unfortunately, at the time of this writing M1 Finance only supports integer target weight values so in practice you wouldn't be able to allocate the exact weight in relation to a stock's market cap.
 
