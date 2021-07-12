@@ -1,3 +1,9 @@
+### Long-term Investing Using Margin
+
+https://nicoqueijo.medium.com/long-term-investing-using-margin-a46a06e36f
+
+Blog post analyzing the effects of using margin over the long-term.
+
 ### M1 Finance Rebalancing Calculator/Simulator
 
 https://docs.google.com/spreadsheets/d/1GmjWjGQ0CxeLf6v59pctsX6gXn2AAxkTO4RttRWGdbw/edit?usp=sharing
